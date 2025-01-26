@@ -12,7 +12,7 @@ export default {
           status: 'My personal website, I created this website to display my profile, skills and projects.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/muhammadsyafiqakmal06/Portfolio',
-          demo: 'https://portofolio-akmal.netlify.app/'
+          demo: 'https://portfolio-akmal.netlify.app/portfolio'
         },
         {
           id: 2,
