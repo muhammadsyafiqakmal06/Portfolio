@@ -11,7 +11,7 @@ export default {
           role: 'Fullstack Web Developer',
           status: 'My personal website, I created this website to display my profile, skills and projects.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
+          github: 'https://github.com/muhammadsyafiqakmal06/Portfolio',
           demo: 'https://portofolio-akmal.netlify.app/'
         },
         {
