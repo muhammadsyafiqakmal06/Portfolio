@@ -21,12 +21,6 @@ const routes = [
     meta: { title: 'Portfolio' }
   },
   {
-    path: '/blog',
-    name: 'blog',
-    component: () => import('../views/BlogView.vue'),
-    meta: { title: 'Blog' }
-  },
-  {
     path: '/read/:slug/:id',
     name: 'articleDetail',
     component: () => import('../views/ArticleView.vue'),
